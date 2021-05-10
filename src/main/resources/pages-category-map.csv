@@ -1,0 +1,9 @@
+Категория,Названия,Ссылка,Исключить ссылки
+MAIN,Главная,/,
+ROOM,Номерной фонд,/rooms,/booking*
+PRICE,"Цены, Прайс-лист",/pricelist,/booking*
+BOOKING,Бронирование,/booking,
+INFO,Информация,/info,/booking*
+GALLERY,"Фото, галерея",/gallery,/booking*
+FEEDBACK,Отзывы,/feedback,/booking*
+CONTACTS,Контакты,/contacts,/booking*
